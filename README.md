@@ -8,7 +8,8 @@ Place this file where it is convenient. `%USERPROFILE%` usually works pretty wel
 `> setcpupower <MinAC> <MinDC> <MaxAC> <MaxDC>`
 
 ## Example
-```> setcpupower 5 5 50 50
+```
+> setcpupower 5 5 50 50
 CPU power settings updated successfully!
 ```
 
